@@ -1,0 +1,20 @@
+# Diretórios e arquivos específicos do NetBeans
+nbproject/private/
+nbbuild/
+build/
+dist/
+*.class
+
+# Arquivos temporários de IDEs
+.idea/
+.vscode/
+
+# Arquivos de logs
+*.log
+
+# Arquivos de compilação e de saída
+*.jar
+*.war
+
+.env
+
